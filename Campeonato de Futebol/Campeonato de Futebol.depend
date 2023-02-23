@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625432701 source:/home/fbrito/Programas_em_C/Campeonato de Futebol/main.cpp
+	<stdio.h>
+	<iostream>
+

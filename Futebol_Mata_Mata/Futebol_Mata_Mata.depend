@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627877838 source:/home/fbrito/Programas_em_C/Futebol_Mata_Mata/main.cpp
+	<stdio.h>
+	<iostream>
+

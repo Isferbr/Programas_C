@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630354884 source:/home/fbrito/Programas_em_C/Lista_Alocacao_Dinamica/Quest_5/main.cpp
+	<stdio.h>
+	<stdlib.h>
+
